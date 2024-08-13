@@ -11,11 +11,26 @@
 # while  time(2)<5:
 #     print("your class is running")
 
-a = 1 
-while a<50:
-    a= a+1
+# a = 1 
+# while a<50:
+#     a= a+1
 
-    if a%2 == 0:
-        print(a," this is even")
-    else:
-        print(a," this is odd")
+#     if a%2 == 0:
+#         print(a," this is even")
+#     else:
+#         print(a," this is odd")
+
+
+# data = "this is skill"
+# for i in data:
+#     print("apple",i)
+
+sum = 0
+
+data = "123456"
+for a in data:
+
+    int_number=int(data)
+
+    sum = sum+int_number
+    print("the sum of number all number is:" ,sum)
