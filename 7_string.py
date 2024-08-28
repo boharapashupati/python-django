@@ -81,22 +81,19 @@
 # print(type(age))
 
 
-# age = 20
 
-# if (age >= 18):
 
-#     print("can vote")
+# light = "green"
+# if (light == "red"):
+#         print("stop")
 
-light = "green"
-if (light == "red"):
-        print("stop")
-
-elif(light == "green"):
-    print("go")
-elif(light == "yellow"):
-    print("wait")
+# elif(light == "green"):
+#     print("go")
+# elif(light == "yellow"):
+#     print("wait")
 
 
 
 
-
+data = "123456789"
+print(data[0:])

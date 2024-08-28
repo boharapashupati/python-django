@@ -21,16 +21,16 @@
 #         print(a," this is odd")
 
 
-# data = "this is skill"
+# data = "this is mine Babe"
 # for i in data:
 #     print("apple",i)
 
-sum = 0
+# sum = 0
 
-data = "123456"
-for a in data:
+# data = "123456"
+# for a in data:
 
-    int_number=int(data)
+#     int_number=int(data)
 
-    sum = sum+int_number
-    print("the sum of number all number is:" ,sum)
+#     sum = sum+int_number
+#     print("the sum of number all number is:",sum)
